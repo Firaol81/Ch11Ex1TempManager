@@ -1,7 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.ComponentModel.DataAnnotations;
-
+//Author: Firaol baneta
+//Date: 3/3/2024
 namespace TempManager.Models
 {
     public class Temp
